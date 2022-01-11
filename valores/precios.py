@@ -1,5 +1,5 @@
 from servicios.fetch import dolarBlue
-from values import getValues
+from valores.values import getValues
 
 def verPrecios():
     valor_dolar = dolarBlue().get("sell_price")

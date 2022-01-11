@@ -1,4 +1,4 @@
-from values import getValues
+from valores.values import getValues
 
 def toString():
     dolares = getValues()
