@@ -1,7 +1,7 @@
 ## Imports
 from utils.prices import view_blue, view_oficial
 
-def to_string(response): ## Convert to string
+def to_string(response) -> int: ## Convert to string
     if response == 1:
         dolares = view_blue()
         return f"El dolar blue es de ${dolares}"
