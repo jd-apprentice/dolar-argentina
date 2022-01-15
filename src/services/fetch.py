@@ -7,3 +7,6 @@ def api_service(base, endpoint):
 
 def dolar_blue():
     return api_service(BASE_URL, "dolarblue")
+
+def dolar_oficial():
+    return api_service(BASE_URL, "dolaroficial")

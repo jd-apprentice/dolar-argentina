@@ -1,8 +1,8 @@
-from utils.prices import view_prices
-
-def to_string():
-    dolares = view_prices()
-    print("Tenes $" + str(dolares) + " dolares")
+## Imports
+from layout.menu import Menu
+from utils.constants import MENU_OPTIONS
+from utils.result import to_string
 
 if __name__ == "__main__":
-    to_string()
+    getResponse = Menu(MENU_OPTIONS) ## Get the response from the menu
+    print(to_string(getResponse)) ## Print the response
