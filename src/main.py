@@ -1,7 +1,6 @@
 ## Imports
-from layout.menu import Menu
-from utils.constants import MENU_OPTIONS
-from utils.result import to_string
+from layout import Menu
+from utils import to_string, MENU_OPTIONS
 
 if __name__ == "__main__":
     getResponse = Menu(MENU_OPTIONS) ## Get the response from the menu
