@@ -10,5 +10,5 @@ def to_string(response): ## Convert to string
         return f"A valor de dolar oficial tenes ${dolares} dolares"
     elif response == 3:
         return "Hasta luego!"
-    elif response != type(int):
+    else:
         return "Opcion invalida"
