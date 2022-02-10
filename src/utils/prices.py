@@ -5,7 +5,7 @@ import sys
 
 def view_blue(): ## Get the dolar blue
     try:
-        dolar_value = dolar_blue().get("sell_price")
+        dolar_value = float(dolar_blue().get("venta"))
         dolars = get_values() / dolar_value
         return round(dolars, 2)
     except ValueError:
