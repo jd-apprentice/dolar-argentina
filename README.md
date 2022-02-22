@@ -30,8 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-all-contributors/add-JaviCeRodriguez
-    <td align="center"><a href="https://javier-rodriguez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/68615684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier Rodriguez</b></sub></a><br /><a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=JaviCeRodriguez" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://javier-rodriguez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/68615684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier Rodriguez</b></sub></a><br /><a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=JaviCeRodriguez" title="Tests">⚠️</a> <a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=JaviCeRodriguez" title="Code">💻</a> <a href="https://github.com/jd-apprentice/dolar-argentina/issues?q=author%3AJaviCeRodriguez" title="Bug reports">🐛</a> <a href="#mentoring-JaviCeRodriguez" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/jd-apprentice/dolar-argentina/pulls?q=is%3Apr+reviewed-by%3AJaviCeRodriguez" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://portfolio-jd.vercel.app/"><img src="https://avatars.githubusercontent.com/u/68082746?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jonathan Dyallo</b></sub></a><br /><a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=jd-apprentice" title="Code">💻</a> <a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=jd-apprentice" title="Tests">⚠️</a> <a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=jd-apprentice" title="Documentation">📖</a> <a href="#maintenance-jd-apprentice" title="Maintenance">🚧</a></td>
   </tr>
 </table>
