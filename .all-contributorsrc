@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JaviCeRodriguez",
+      "name": "Javier Rodriguez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68615684?v=4",
+      "profile": "https://javier-rodriguez.vercel.app/",
+      "contributions": [
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "dolar-argentina",
+  "projectOwner": "jd-apprentice",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
