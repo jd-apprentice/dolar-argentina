@@ -30,7 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://javier-rodriguez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/68615684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier Rodriguez</b></sub></a><br /><a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=JaviCeRodriguez" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://javier-rodriguez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/68615684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Javier Rodriguez</b></sub></a><br /><a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=JaviCeRodriguez" title="Tests">⚠️</a> <a href="https://github.com/jd-apprentice/dolar-argentina/commits?author=JaviCeRodriguez" title="Code">💻</a> <a href="https://github.com/jd-apprentice/dolar-argentina/issues?q=author%3AJaviCeRodriguez" title="Bug reports">🐛</a> <a href="#mentoring-JaviCeRodriguez" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
