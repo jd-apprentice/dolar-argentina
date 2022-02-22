@@ -11,7 +11,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/68615684?v=4",
       "profile": "https://javier-rodriguez.vercel.app/",
       "contributions": [
-        "test"
+        "test",
+        "code",
+        "bug",
+        "mentoring"
       ]
     }
   ],
